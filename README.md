@@ -1,6 +1,8 @@
 Never Not Roaming product. Support me at https://buymeacoffee.com/neverxroaming
 Built with Google Antigravity
 
+I built this program to help take raw JSON workflow files and create documentation of the workflows plus a clean JSON file without leftover keys/credential. Enjoy!
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
